@@ -1,3 +1,5 @@
+#library-management-system
+
 **Description**
 1.The Library Management System is a web-based application developed in Java . It helps automate the process of managing a library, including book records, user management, issue/return of books.
 2.The system provides role-based access for Admin and Users:
@@ -6,14 +8,14 @@
 3.This project ensures efficieny and real time updates.
 
 **Features**
-    1.Login page for users.
-    2.Add, update, delete, and search books.
-    3.Book issue and return dates
-    4.Tracking due dates.
+* Login page for users.
+* Add, update, delete, and search books.
+* Book issue and return dates
+* Tracking due dates.
     
 **Tech Stack:**
-    Frontend: HTML, CSS, JavaScript
-    Backend: Java Classes & modules
-    Database: MySQL
-    Programming Language : Java
+* Frontend: HTML, CSS, JavaScript
+* Backend: Java Classes & modules
+* Database: MySQL
+* Programming Language : Java
 
