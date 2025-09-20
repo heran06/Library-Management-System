@@ -33,11 +33,11 @@ After running the program, you will see a menu like:
 
 
 **Code Structure**
-* LibraryManagementSystem.java → Contains all classes (Book, User, Library)    and the main method.
-* Book: Represents a book with ID, title, author, and status.
-* User: Represents a library user.
-* Library: Handles all core library operations (add book, issue/return         books, list books).
-* Main method: Contains the menu and runs the program.
+* **LibraryManagementSystem.java**  →   Contains all classes (Book, User, Library) and the main method.
+* **Book**       :  Represents a book with ID, title, author, and status.
+* **User**       :  Represents a library user.
+* **Library**    :  Handles all core library operations (add book, issue/return books, list books).
+* **Main method**:  Contains the menu and runs the program.
 
 
 
