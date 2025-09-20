@@ -19,3 +19,17 @@
 * Database: MySQL
 * Programming Language : Java
 
+**Usage**
+
+After running the program, you will see a menu like:
+
+--- Library Menu ---
+1. Add Book
+2. List Books
+3. Issue Book
+4. Return Book
+5. Exit
+
+ So,from this the admin can interact with the system by entering the corresponding number.
+
+
