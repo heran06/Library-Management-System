@@ -20,6 +20,7 @@
 * Programming Language : Java
 
 **Usage**
+
 After running the program, you will see a menu like:
 
 --- Library Menu ---
@@ -38,6 +39,26 @@ After running the program, you will see a menu like:
 * **User**       :  Represents a library user.
 * **Library**    :  Handles all core library operations (add book, issue/return books, list books).
 * **Main method**:  Contains the menu and runs the program.
+
+**Sample Output**
+
+After running the program,we get
+
+--- Library Menu ---
+1. Add Book
+2. View Books
+3. Search Book
+4. Issue Book
+5. Return Book
+6. Exit
+Enter choice: 2
+1 - The Tempest by John [Available]
+2 - Pride and Prejudice by Taylor [Available]
+3 - The Summer at Cousins by Jenny Han [Available]
+
+
+
+
 
 
 
